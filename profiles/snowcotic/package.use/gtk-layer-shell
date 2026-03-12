@@ -1,0 +1,4 @@
+# required by gui-apps/nwg-panel-0.10.12::guru
+# required by gui-apps/nwg-0::guru
+# required by gui-apps/nwg (argument)
+>=gui-libs/gtk-layer-shell-0.9.2 introspection

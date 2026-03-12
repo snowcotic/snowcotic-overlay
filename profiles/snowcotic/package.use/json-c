@@ -1,0 +1,9 @@
+# required by dev-libs/elfutils-0.194::gentoo[debuginfod]
+# required by sys-devel/binutils-2.46.0::gentoo[debuginfod]
+# required by sys-devel/gcc-15.2.1_p20260214::gentoo
+# required by dev-lang/rust-bin-1.92.0::gentoo
+# required by gnome-base/librsvg-2.60.0::gentoo
+# required by media-gfx/gimp-3.0.8-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-libs/json-c-0.18 abi_x86_32

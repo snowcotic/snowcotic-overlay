@@ -1,0 +1,5 @@
+# required by media-libs/tiff-4.7.0-r1::gentoo[webp]
+# required by app-editors/emacs-30.2::gentoo[tiff,gui]
+# required by @selected
+# required by @world (argument)
+>=media-libs/libwebp-1.5.0 abi_x86_32

@@ -1,0 +1,4 @@
+# required by dev-python/wheel-0.46.2::gentoo
+# required by dev-python/setuptools-80.9.0-r1::gentoo
+# required by dev-python/setuptools-scm-9.2.2::gentoo[-test]
+>=dev-python/packaging-26.0 python_targets_python3_12

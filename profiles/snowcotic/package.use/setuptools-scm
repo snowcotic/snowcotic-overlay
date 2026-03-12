@@ -1,0 +1,5 @@
+# required by dev-python/setuptools-80.9.0-r1::gentoo
+# required by gui-apps/nwg-displays-0.3.28::guru
+# required by gui-apps/nwg-0::guru
+# required by gui-apps/nwg (argument)
+>=dev-python/setuptools-scm-9.2.2 python_targets_python3_12

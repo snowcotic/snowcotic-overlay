@@ -1,0 +1,4 @@
+# required by app-editors/emacs-30.2-r1::gentoo[jit]
+# required by @selected
+# required by @world (argument)
+>=sys-devel/gcc-15.2.1_p20260214 jit

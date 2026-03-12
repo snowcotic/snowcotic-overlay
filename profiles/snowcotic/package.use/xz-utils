@@ -1,0 +1,5 @@
+# required by dev-libs/elfutils-0.193::gentoo[lzma]
+# required by dev-util/pahole-1.30::gentoo
+# required by sys-kernel/gentoo-kernel-6.12.38::gentoo[debug]
+# required by virtual/dist-kernel-6.12.38::gentoo
+>=app-arch/xz-utils-5.8.1-r1 abi_x86_32

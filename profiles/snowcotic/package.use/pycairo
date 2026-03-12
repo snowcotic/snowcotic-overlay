@@ -1,0 +1,5 @@
+# required by dev-python/pygobject-3.50.1::gentoo[cairo]
+# required by gui-apps/nwg-displays-0.3.28::guru
+# required by gui-apps/nwg-0::guru
+# required by gui-apps/nwg (argument)
+>=dev-python/pycairo-1.29.0-r1 python_targets_python3_12
